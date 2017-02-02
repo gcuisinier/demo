@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.5.2-SNAPSHOT</version>
+	<version>0.0.5.2</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
@@ -20,7 +20,7 @@
 	<scm>
 		<connection>scm:git:git://git@github.com:gcuisinier/demo.git</connection>
 		<developerConnection>scm:git:git@github.com:gcuisinier/demo.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>demo-0.0.5.2</tag>
   </scm>
 
 	<properties>
